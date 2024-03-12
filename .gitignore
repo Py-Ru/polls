@@ -1,9 +1,3 @@
-**/admin.py
-**/asgi.py
-**/wsgi.py
-**/apps.py
-**/models.py
-**/migrations/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -16,6 +10,7 @@ __pycache__/
 
 # Local development settings
 /local_settings.py
+settings.py
 
 # Media files
 /media/
